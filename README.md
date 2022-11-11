@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Science, Data Analytics, Business Analytics, ML, Python**
 
-- 📫 How to reach me **ibrahimjaveedkhan@gmail.com**
+- 📫 Reach me at **ibrahimjaveedkhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
